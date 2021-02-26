@@ -1,7 +1,7 @@
 //firstApp/index.php
 
-<?php
+<?php 
 
-echo "hello!" ;
-
+echo "see you";
+ 
 ?>
